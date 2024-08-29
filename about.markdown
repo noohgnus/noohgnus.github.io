@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 <!-- ![profile](/assets/profpic.jpg) -->
-<img src="/assets/profpic.jpg" alt="Made with Unity" width="250"/>
-<img src="/assets/cactus.png" alt="Made with Unity" width="260"/>
+<img src="/assets/profpic.jpg" alt="Made with Unity" width="200"/>
+<img src="/assets/cactus.png" alt="Made with Unity" width="210"/>
 # I'm Anthony, an experienced software engineer and a passionate game developer with 8+ years of experience in games. 
 
 Let's make something fun together!
