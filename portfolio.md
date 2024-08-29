@@ -8,14 +8,16 @@ title: Portfolio
 ## **Colors of Nobility** <img src="/assets/unity.png" alt="Made with Unity" width="25"/>
 <!-- YouTube Video Embed -->
 <iframe width="740" height="400" src="https://www.youtube.com/embed/pTy8WDOF7ms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![Nobility splash](/assets/nobility_ingame.jpg)
+![Nobility splash](/assets/con_anim.webp)
+
 
 <!-- **Description:**   -->
 - *Colors of Nobility* is a Roguelite deckbuilding turn-based RPG game, staged for official release in late 2024. Inspired by *Slay the Spire*'s mechanics, this game features cozy hand-drawn visuals and deep gameplay mechanics, along with a unique map system that provides a challenging experience.
 
 I took lead on the game's overall engineering. I am responsible for entire infrastructures for the game's ever-expanding mechanics, as well as shipping the game on Steam platform. This game is made along with another colleague who specializes in art and game design. Visit the <a href="https://www.seamonsterhorse.com/game" class="btn" target="_blank">product website</a> for more details on the game!
 
-<a href="https://store.steampowered.com/app/2379370/COLORS_of_NOBILITY/" class="btn" target="_blank"><img src="/assets/wishlist_steam_cut.png" alt="drawing" width="200"/></a>
+<a href="https://store.steampowered.com/app/2379370/COLORS_of_NOBILITY/" class="btn" target="_blank"><img src="/assets/wishlist_steam_cut.png" alt="Wishlist on Steam" width="200"/></a>
+<a href="https://www.kickstarter.com/projects/seamonsterhorse/colors-of-nobility" class="btn" target="_blank"><img src="/assets/kickstarter.png" alt="Kickstarter" width="230"/></a>
 
 ---
 
@@ -29,7 +31,7 @@ I took lead on the game's overall engineering. I am responsible for entire infra
 
 I took charge of the entire gameplay system and collaborated with artists and engineers to achieve top-notch visuals and gameplay.
 
-<a href="https://web.zepeto.me/en/detail/qVZLe3wK876tTtHvfeJamQr?referrer=copylink_share" class="btn" target="_blank"><img src="/assets/zepeto_logo.jpg" alt="drawing" width="25"/>  Play on Zepeto</a> (requires Zepeto app on mobile)
+<a href="https://web.zepeto.me/en/detail/qVZLe3wK876tTtHvfeJamQr?referrer=copylink_share" class="btn" target="_blank"><img src="/assets/zepeto_logo.jpg" alt="Zepeto Logo" width="25"/>  Play on Zepeto</a> (requires Zepeto app on mobile)
 
 ---
 
@@ -45,7 +47,7 @@ I took charge of the entire gameplay system and collaborated with artists and en
 
 I was in charge of new combat gameplay, UI features, in-app purchase flow, and refactoring 5+ years of legacy code.
 
-<a href="https://play.google.com/store/apps/details?id=com.nexonm.dominations.adk&hl=en_US" class="btn" target="_blank"><img src="/assets/google_play.png" alt="drawing" width="200"/></a> <a href="https://apps.apple.com/us/app/dominations/id922558758" class="btn" target="_blank"><img src="/assets/app_store.png" alt="drawing" width="200"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.nexonm.dominations.adk&hl=en_US" class="btn" target="_blank"><img src="/assets/google_play.png" alt="Google Play" width="200"/></a> <a href="https://apps.apple.com/us/app/dominations/id922558758" class="btn" target="_blank"><img src="/assets/app_store.png" alt="App Store" width="200"/></a>
 
 
 ---
@@ -60,7 +62,8 @@ I was in charge of new combat gameplay, UI features, in-app purchase flow, and r
 
 I was part of the early startup engineering team on Ronday, where I was responsible for making the audio/video/chat work in the virtual world and managing networked interactions such as teleportations and door state synchronizations.
 
-<a href="https://www.producthunt.com/products/ronday" class="btn" target="_blank">See on Product Hunt</a> (Ronday discontinued service in 2023)
+<a href="https://www.producthunt.com/products/ronday?utm_source=badge-follow&utm_medium=badge&utm_souce=badge-ronday" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=526564&theme=light" alt="Ronday - Empowering&#0032;remote&#0032;teams&#0032;to&#0032;collaborate | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 
 ---
 
@@ -68,7 +71,7 @@ I was part of the early startup engineering team on Ronday, where I was responsi
 ## **Penguin Moonwalkin** <img src="/assets/unity.png" alt="Made with Unity" width="25"/>
 
 <!-- ![Penguin ingame](/assets/penguin_moonwalkin.png) -->
-<img src="/assets/penguin_moonwalkin.png" alt="drawing" width="350"/>
+<img src="/assets/penguin_moonwalkin.png" alt="Penguin MoonWalkin" width="350"/>
 
 <!-- **Description:**   -->
 - Penguin Moonwalkin is a infinite runner mobile game. It scored over 2.5k organic downloads on Google Play Store, and also it is also available as HTML5 build on itch.io.
@@ -77,7 +80,7 @@ I made this game in just 3 days as a part of a personal game jam!
 
 
 <iframe width="200" height="167" frameborder="0" src="https://itch.io/embed/487902"><a href="https://noohgnus.itch.io/penguin-moonwalkin">Penguin Moonwalkin by noohgnus</a></iframe>
-<a href="https://play.google.com/store/apps/details?id=com.duckat.zigzagTest1" class="btn" target="_blank"><img src="/assets/google_play.png" alt="drawing" width="200"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.duckat.zigzagTest1" class="btn" target="_blank"><img src="/assets/google_play.png" alt="Google Play" width="200"/></a>
 
 <!-- <a href="https://noohgnus.itch.io/penguin-moonwalkin" class="btn" target="_blank">Play on itch.io</a> -->
 
