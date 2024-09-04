@@ -16,6 +16,8 @@ title: Portfolio
 
 I took lead on the game's overall engineering. I am responsible for entire infrastructures for the game's ever-expanding mechanics, as well as shipping the game on Steam platform. This game is made along with another colleague who specializes in art and game design. Visit the <a href="https://www.seamonsterhorse.com/game" class="btn" target="_blank">product website</a> for more details on the game!
 
+<a href="https://colorsnobility.web.app/" class="btn" target="_blank"><img src="/assets/unity.png" alt="Play on WebGL" width="25"/></a> <a href="https://colorsnobility.web.app/" class="btn" target="_blank">Play demo on browser!</a> (Powered by WebGL, give it 10 seconds to load 😊)
+
 <a href="https://store.steampowered.com/app/2379370/COLORS_of_NOBILITY/" class="btn" target="_blank"><img src="/assets/wishlist_steam_cut.png" alt="Wishlist on Steam" width="200"/></a>
 <a href="https://www.kickstarter.com/projects/seamonsterhorse/colors-of-nobility" class="btn" target="_blank"><img src="/assets/kickstarter.png" alt="Kickstarter" width="230"/></a>
 
@@ -27,7 +29,7 @@ I took lead on the game's overall engineering. I am responsible for entire infra
 ![ZEPETO img](https://cf-cdn-studio-zcc.zepeto.me/world-68011/SCREENSHOT/e549ef2963cb4f7baa86325460f27964)
 
 <!-- **Description:**   -->
-- I worked on Naver Z's mobile metaverse platform *ZEPETO*, where players enter thousands of user-created worlds with their custom-fit avatars. Along with other platform works, I was the main engineer for creating the ***On the Way Home*** world, where users can create and edit custom movies with their own character. This world was ranked among the top visited worlds and had an exceptional retention rate as a standalone gameplay world.
+- I worked on Naver Z's mobile metaverse platform *ZEPETO*, where players enter thousands of user-created worlds with their custom-fit avatars. Along with other platform works, I was the main engineer for creating the *On the Way Home* world, where users can create and edit custom movies with their own character. This world was ranked among the top visited worlds and had an exceptional retention rate as a standalone gameplay world.
 
 I took charge of the entire gameplay system and collaborated with artists and engineers to achieve top-notch visuals and gameplay.
 
