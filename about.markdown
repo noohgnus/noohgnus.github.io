@@ -16,4 +16,4 @@ Let's make something fun together!
 
 - Favorite games: *Monster Hunter series*, *Lost Ark*, *Hearthstone*, *Balatro*, *Slay the Spire*.
 
-- You can download my resume <a href="/assets/resume.pdf" class="btn" target="_blank">here</a>.
+- You can download my resume <a href="/assets/Anthony Kim - Resume.pdf" class="btn" target="_blank">here</a>.
